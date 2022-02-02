@@ -1,0 +1,56 @@
+
+*{
+    background: #B9B0AB;
+}
+
+h1{
+    font-style: bold;
+    text-align: left;
+    background-color: #221806;
+    color: #F2F1EC;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 10PX;
+}
+
+#tituloimg{
+    width: 100%;
+}
+.noti{
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 100%;
+}
+.exor{
+    column-count: 3;
+    column-width: 20%;
+    column-span: all;
+}
+.planta{
+    column-count: 3;
+    column-width: 20%;
+    column-span: all;
+}
+.caca{
+    column-count: 3;
+    column-width: 20%;
+    column-span: all;
+}
+.niño{
+    column-count: 3;
+    column-width: 20%;
+    column-span: all;
+}
+.mono{
+    column-count: 3;
+    column-width: 20%;
+    column-span: all;
+}
+
+
+
+
+
